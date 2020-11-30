@@ -1,0 +1,7 @@
+node_modules/
+yarn-error.log
+.env
+.nyc_output
+coverage
+build/
+photo-log-4f316-074e256bb256.json
